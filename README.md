@@ -1,4 +1,4 @@
-# Operating Systems cs 5348 class project 2 - Add Lottery Scheduler to xv6
+# Operating Systems CS 5348 class project 2 - Add Lottery Scheduler to xv6
 
 Add a lottery scheduler to xv6
 ----------------------
